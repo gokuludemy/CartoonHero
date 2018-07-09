@@ -1,0 +1,49 @@
+html,body{
+    font-family: Arial,sans-serif;
+    margin:0;
+}
+
+header{    
+    
+    background-color: #00004C;
+    padding: 40px;
+text-align:center;}
+    
+
+
+    h1{
+        font-size: 90px;
+        color: white;
+    }
+
+    header img{border-radius:150px; width:300px;height:300px; border:10px solid red;}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: coral;
+    padding:0 20;
+    
+}
+img.bigimage{
+    max-width: 100%;
+}
+p.caption{
+    font-size: 16px;
+   color: lightgrey;
+    
+}
+ul{
+    list-style: none;
+    padding: none;
+    
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+footer{
+    padding: 40px;
+    background-color: aqua;
+}
+footer ul 
